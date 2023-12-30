@@ -1,0 +1,11 @@
+.list-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+} 
+.title{
+  font-size: 30px;
+  font-family: "Roboto";
+  margin-bottom: 30px;
+}

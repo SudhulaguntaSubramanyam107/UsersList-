@@ -1,0 +1,26 @@
+.user-card-container{
+    display: flex;
+    align-items: center;
+    border-radius:12px;
+    margin-bottom: 30px;
+} 
+.avatar{
+    width:48px;
+    height:48px;
+    border-radius: 24px;
+} 
+.user-details-container{
+    margin-left:12px;
+} 
+.user-name{
+    margin-top:8px;
+    margin-bottom:8px;
+    font-family:"Roboto";
+    font-size:18px;
+} 
+.user-designation{ 
+    margin:0px;
+    font-family: "Roboto";
+    font-size: 14px;
+
+} 
